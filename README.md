@@ -1,2 +1,2 @@
 # Online Shop
-Spring REST API for products
+Spring REST API 
